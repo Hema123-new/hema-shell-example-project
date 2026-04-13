@@ -1,2 +1,1 @@
-# hema-shell-example-project
-shell scripting  example project
+hi this is hema
